@@ -7,7 +7,7 @@
     <h1 align="center">Seven Wonders of the World</h1>
 
     <table border="1" align="center">
-        <tr bgcolor="lightblue">
+        <tr>
             <th>Image</th>
             <th>Name</th>
             <th>Description</th>
